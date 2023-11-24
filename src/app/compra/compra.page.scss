@@ -1,0 +1,139 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+ion-button.botones{
+    --background: white;
+    --color: black;
+     width: 100%;
+     height: 100%;
+     --background-activated: rgba(172, 172, 172, 0.253);
+  }
+  ion-icon.iconosbot{
+    height: 4rem;
+    width: 10rem;
+    
+  }
+  ion-icon.iconspag{
+    height: 45.6%;
+    width: 100%;
+    
+  }
+  .iocons{
+    height: 100%;
+    width: 4rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .barraTareas{
+    width: 100%;
+    height: 7%;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+   }
+ ion-content.seeAll{
+    width: 100%;
+    height: 93%;
+    
+    
+ }
+ .row{
+    width: 100%;
+    height: 100%;
+ }
+ ion-content.all{
+    width: 100%;
+    height: 90rem;
+    overflow-y: auto;
+ }
+ .header{
+    width: 100%;
+    height: 6%;
+    padding-left: 1%;
+    display: flex;
+    align-items: center;
+ }
+ .produ{
+    width: 100%;
+    height: 16rem;
+    border: black 0.1rem solid;
+ }
+ ion-row.infoPro{
+    width: 100%;
+    height: 26%;
+    
+ }
+ ion-row.imaPro{
+    width: 100%;
+    height: 74%;
+    
+    overflow-x: auto;
+ }
+ ion-grid.scrollima{
+    width: 200%;
+    height: 100%;
+    
+    
+ }
+ ion-col.imas{
+    height: 100%;
+    width: 100%;
+    
+ }
+ ion-row.imasi{
+    height: 100%;
+    width: 100%;
+    
+ }
+ ion-segment.segmento{
+    display: flex;
+    
+ }
+ ion-grid.informacion{
+    display: flex;
+    
+    height: 100%;
+    width: 100%;
+ }
+ ion-col.foto{
+  display: flex;
+  
+  height: 100%;
+  width: 5rem;
+  
+ }
+ ion-col.name{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 7rem;
+ }
+ ion-col.precio{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    padding-left: 1%;
+    color: #44a8e0;
+ }
+ ion-col.boton{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+ }
+ ion-button.botonBuy{
+    --background:#44a8e0;
+    --background-hover: #2073a3;
+    --background-activated: #2073a3;
+    --background-focused: #2073a3;
+    
+ }

@@ -1,0 +1,346 @@
+body{
+  height: 100%;
+  width: 100%; 
+  
+}
+.header{
+  height: 2.3%;
+  width: 100%;
+  
+  display: flex;
+  justify-content: space-between;
+}
+.logoPrincipal{
+ height: 100%;
+ width: 17vh;
+   
+}
+.logoSecundarios{
+  height: 100%;
+  width: 18vh;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.historias{
+  height: 5%;
+  width: 100%;
+  
+  display: flex;
+}
+.Mas{
+  margin-left: -1.5rem;
+  margin-top: 2.1rem;
+}
+.historiaSep{
+  height: 100%;
+  width: 5.8rem;
+  margin-left: 1%;
+}
+.logoPer{
+  width: 100%;
+  height: 4.48rem;
+   
+  display: flex;
+  justify-content: center;
+}
+.nomPer{
+  width: 100%;
+  height: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.historiasMuestra{
+  width: 69.6rem;
+  height: 100%;
+  
+  display: flex;
+  position: relative;
+  overflow-x: auto;
+}
+.linea{
+  width: 100%;
+  height: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lin{
+  width: 100%;
+  height: 0.1rem;
+  
+}
+.all{
+  width: 100%;
+  height: 129.5rem;
+  
+}
+.viewAll{
+  width: 100%;
+  height: 93%;
+  overflow-y: auto;
+}
+.anuncio{
+  width: 100%;
+  height: 15%;
+  padding: 0.1rem;
+  border-top:  solid  rgba(107, 98, 98, 0.50) 0.1rem; 
+  border-bottom:  solid  rgba(107, 98, 98, 0.50) 0.1rem; 
+  display: flex;
+  justify-content: center;
+}
+.publicaciones{
+ width: 100%;
+ height: 77.7%;
+ 
+}
+.barraTareas{
+ width: 100%;
+ height: 7%;
+ 
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.add{
+  height: 100%;
+  width: 21rem;
+  
+}
+.log{
+  height: 32%;
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+}
+.text{
+  height:40%;
+  width: 100%;
+  
+}
+.textup{
+  width: 100%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.textdown{
+  width: 100%;
+  height: 80%;
+  text-align: center;
+}
+.botons{
+  height: 28%;
+  width: 100%;
+  
+}
+.botonsup{
+  width: 100%;
+  height: 55%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.botonsdown{
+  width: 100%;
+  height: 45%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.favoryte{
+ height: 75%;
+ width: 17rem;
+ border: solid 0.1rem #44a8e0;
+ color: white;
+ background-color: #44a8e0;
+ border-radius: 10px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.learn{
+  height: 75%;
+ width: 7rem;
+ color: #44a8e0;
+ border-radius: 10px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.publi1{
+  height: 30rem;
+  width: 100%;
+  border-top:  solid  rgba(107, 98, 98, 0.50) 0.1rem; 
+}
+.publi2{
+  height: 30rem;
+  width: 100%;
+  border-top:  solid  rgba(107, 98, 98, 0.50) 0.1rem; 
+}
+.publi3{
+  height: 40.4rem;
+  width: 100%;
+  border-top:  solid  rgba(107, 98, 98, 0.50) 0.1rem; 
+  
+}
+.publi_perf1{
+  height: 12%;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.publi_perf2{
+  height: 12%;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.publi_perf3{
+  height: 9%;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.perf_fot{
+  height: 100%;
+  width: 3rem;
+  
+  display: flex;
+  align-items: center;
+}
+.perf_text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  height: 100%;
+  width: auto;
+  
+  display: flex;
+  align-items: center;
+}
+.perf_ver{
+  height: 100%;
+  width: auto;
+  
+  display: flex;
+  align-items: center;
+}
+.conf{
+  height: 100%;
+  width: 3rem;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.perf_der{
+  height: 100%;
+  width: 3.5rem;
+  
+  display: flex;
+  justify-content: center;
+}
+.perf_izq{
+  height: 100%;
+  width: auto;
+  
+  display: flex;
+}
+.iocons{
+  height: 100%;
+  width: 4rem;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.publi1_foto{
+  width: 100%;
+  height: 54%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.publi_bajo{
+  width: 100%;
+  height: 34%;
+  
+}
+.publibajo_up{
+width: 100%;
+height: 30%;
+display: flex;
+
+justify-content: space-between;
+}
+.publibajo_down{
+  width: 100%;
+  height: 70%;
+  padding: 0% 5%;
+}
+.publiBajoUp_izq{
+  height: 100%;
+  width: 9.75rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.publiBajoUp_der{
+  height: 100%;
+  width: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  
+  font-family: Arial, Helvetica, sans-serif;
+}
+.publi3_foto{
+  width: 100%;
+  height: 75%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.publi_bajo3{
+  width: 100%;
+  height: 25%;
+  
+}
+ion-button.botones{
+  --background: white;
+  --color: black;
+   width: 100%;
+   height: 100%;
+  --background-activated: rgba(172, 172, 172, 0.253);
+  
+}
+ion-icon.iconosbot{
+  height: 4rem;
+  width: 10rem;
+  
+}
+ion-icon.iconspag{
+  height: 45.6%;
+  width: 100%;
+  
+}
